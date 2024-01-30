@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Delphineuzoeto
-- 👀 I’m interested in becoming a  full-stack developer
+- 👀 I’m interested in Html, CSS, js, react, nextjs
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Frontend gigs
-- 📫 How to reach me, you can reach me on email @delphineamaka@gmail.com
+- 📫 How to reach me, you can reach me by email @delphineamaka@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coding
 
